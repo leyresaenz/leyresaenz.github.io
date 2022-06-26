@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I completed my Bachelor's degree in Economics in 2021 at [Universidad de San Andrés](www.udesa.edu.ar).  
+I completed my Bachelor's degree in Economics in 2021 at [Universidad de San Andrés](www.udesa.edu.ar) (thesis pending).  
 Current student in master's degree in Economics at [Universidad de San Andrés](www.udesa.edu.ar).  
 My interests are in poverty, social and human development (development economics), public policy, demography, economic growth, inequality and education. 
 
