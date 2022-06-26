@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Leyre Sáenz Guillén"
 title_separator          : "-"
 name                     : &name "Leyre"
-description              : &description "Bachelor's degree in Economics from Universidad de San Andrés (thesis pending). Current student in master's degree in Economics in Universidad de San Andrés"
+description              : &description "Student in master's degree in Economics"
 url                      : https://leyresaenz1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leyresaenz1/leyresaenz1.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Leyre Sáenz Guillén"
+  name             : "Leyre"
   avatar           : "FOTO1111.jpeg"
-  bio              : "Bachelor's degree in Economics from Universidad de San Andrés (thesis pending). Current student in master's degree from Economics in Universidad de San Andrés"
+  bio              : "Student in master's degree in Economics at Universidad de San Andrés"
   location         : "Buenos Aires, Argentina"
   employer         :
   pubmed           : 
