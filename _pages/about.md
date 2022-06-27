@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am a motivated student of Economics, with a strong vocation for social transformation and a special interest in human development,
-poverty, education and economic growth. I believe in the multidisciplinary approach to solve different problems. I have had the enormous opportunity to live for several years in different countries around the world, which has made it easier for me to be prepared to quickly adapt to very diverse contexts, allowing me to develop an open-mindedness that characterizes me.
+poverty, education and economic growth. I believe in the multidisciplinary approach to solve different problems. I have had the enormous opportunity to live for several years in different countries around the world, which has made it easier for me to be prepared to quickly adapt to very diverse contexts, allowing me to develop an open-mindness that characterizes me.
 
 I completed my Bachelor's degree in Economics in 2021 at [Universidad de San Andrés](www.udesa.edu.ar) (thesis pending).  
 Current student in master's degree in Economics at [Universidad de San Andrés](www.udesa.edu.ar).  
