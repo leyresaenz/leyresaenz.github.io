@@ -11,49 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Bachelor's degree in Economics, Universidad de San Andrés, 2021 (thesis pending)
+* Master's degree in Economics, Universidad de San Andrés, 2022 (expected)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software and Computer skills
+  * Stata
+  * R
+  * Microsoft Office
+  * Latex
+  * Phyton (basic)
+* Social and comunication skills
 
-Publications
+Languages
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+ * Spanish (native)
+ * Catalán (native)
+ * English 
+ * French 
+ * Portuguese (basic)
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Private math classes at secondary and university levels
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer for the "TEDx Tigre" event, November 2018
+* Caritas Foundation: fundraising, 2016-2017
+* Participation in the Public Speaking Club, Colegio el Buen Ayre, 2015 - 2016
+* Participation in the Argentine Mathematics Olympiad, 2013-2017
+
