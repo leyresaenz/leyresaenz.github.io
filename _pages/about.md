@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I completed my Bachelor's degree in Economics in 2021 at [Universidad de San Andrés](www.udesa.edu.ar) (thesis pending).  
-Current student in master's degree in Economics at [Universidad de San Andrés](www.udesa.edu.ar). 
 
-I am a motivated student, with a strong vocation for social transformation and a special interest in human development,
-poverty, education and economic growth. I believe in the multidisciplinary approach to solve different problems. I have had the enormous opportunity to live for several years in different countries around the world, which has made it easier for me to be prepared to quickly adapt to very diverse contexts, allowing me to develop an open-mindness that characterizes me. 
+In December, 2021, I obtained my B.A. in Economics at Universidad de San Andrés. 
+Currently, I am a Master’s Candidate in Economics, also at Universidad de San Andrés.
+Always highly motivated, I have a strong call for social causes and a deep interest in human development, poverty, education, and economic growth. I also believe in a multidisciplinary approach as the best way to solve challenging problems. 
+As regards my personal life, I have had the opportunity to live in different countries around the world. Over the years, this has proven to be a crucial thing in my journey – time and time again, when faced against a diverse or changing scenario, it has always been easier for me to quickly adapt and respond to them. These perspectives, in turn, have also contributed to my open-mindedness, which I am grateful to have and eager to continue developing.
 
 My interests in Economics are in poverty, social and human development (development economics), public policy, demography, economic growth, inequality and education. 
 
