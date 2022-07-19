@@ -22,6 +22,7 @@ Skills
   * Microsoft Office
   * Latex
   * Phyton (basic)
+  * QGIS
 * Social and comunication skills
 
 Languages
